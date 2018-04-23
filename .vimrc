@@ -20,4 +20,3 @@ nnoremap <leader><space> :nohlsearch<CR>
 
 " Misc
 nnoremap gV `[v`] 	" Highlight last text added in insert mode
-
