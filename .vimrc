@@ -21,5 +21,3 @@ nnoremap <leader><space> :nohlsearch<CR>
 " Misc
 nnoremap gV `[v`] 	" Highlight last text added in insert mode
 
-" Leader Key
-let mapleader=","       " leader is comma
