@@ -16,7 +16,9 @@ let mapleader=","       " leader is comma
 " Search
 set incsearch           " search as characters are entered
 set hlsearch            " highlight matches
-nnoremap <leader><space> :nohlsearch<CR>
+
+" Deselect search results
+nnoremap <leader><space> :nohlsearch<CR> 
 
 " Misc
 nnoremap gV `[v`] 	" Highlight last text added in insert mode
